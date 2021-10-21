@@ -16,7 +16,7 @@
   </ItemGroup>
 
   <ItemGroup>
-    <ProjectReference Include="..\ApiScan.Domain\ApiSwaggerAuth.Domain.csproj" />
+    <ProjectReference Include="..\ApiSwaggerAuth.Domain\ApiSwaggerAuth.Domain.csproj" />
   </ItemGroup>
 
   <ItemGroup>

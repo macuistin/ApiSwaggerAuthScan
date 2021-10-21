@@ -3,11 +3,11 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 16
 VisualStudioVersion = 16.0.31729.503
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ApiSwaggerAuth.WinForm", "ApiScan\ApiSwaggerAuth.WinForm.csproj", "{A4BAAF99-CE92-4DFD-A4B0-3E0EF4557071}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ApiSwaggerAuth.WinForm", "ApiSwaggerAuth.WinForm\ApiSwaggerAuth.WinForm.csproj", "{A4BAAF99-CE92-4DFD-A4B0-3E0EF4557071}"
 EndProject
-Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ApiSwaggerAuth.Domain", "ApiScan.Domain\ApiSwaggerAuth.Domain.csproj", "{3EE4D094-A6ED-4916-840B-C075BC589B4C}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ApiSwaggerAuth.Domain", "ApiSwaggerAuth.Domain\ApiSwaggerAuth.Domain.csproj", "{3EE4D094-A6ED-4916-840B-C075BC589B4C}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ApiSwaggerAuth.Console", "ApiSwaggerAuth.Console\ApiSwaggerAuth.Console.csproj", "{59CB80A6-6F1A-4717-87DD-E2E1037BA4D1}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ApiSwaggerAuth.CLI", "ApiSwaggerAuth.CLI\ApiSwaggerAuth.CLI.csproj", "{59CB80A6-6F1A-4717-87DD-E2E1037BA4D1}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
